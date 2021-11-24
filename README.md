@@ -16,4 +16,6 @@
 注意：此主板硬件不支持S3的睡眠模式，目前仅支持S1睡眠模式，S1睡眠正常（仅仅显示器黑屏）。
 
 致谢：Clover和OC引导等内容均搜集于网络，对所有贡献者一并表示感谢！
+---
+API：https://api.github.com/repos/ic005k/HUANAN-B75/releases/latest
 
