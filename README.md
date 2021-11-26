@@ -8,7 +8,7 @@
 
 * 内存：金士顿DDR3 1333 2G x 2
 
-* 显卡：迪兰恒进HD7770 1G（引导参数添加radpg=15，配合WhateverGreen.kext免驱）
+* 显卡：迪兰HD7770 酷能+ 1G DC V2（引导参数添加radpg=15，配合WhateverGreen.kext免驱）
 
 * 硬盘：威刚SP580 120G SSD
 
